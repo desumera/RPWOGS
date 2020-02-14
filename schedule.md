@@ -60,7 +60,7 @@ If a record described in this schedule is maintained in a bound volume of a type
 
 unless otherwise stated, dates from the date of last entry.
 
-If two or more records listed in this schedule are maintained together by a local government and are not severable, the combined record must be
+If two or more records listed in this schedule is maintained together by a local government and are not severable, the combined record must be
 
 retained for the length of time of the component with the longest retention period. A record whose minimum retention period on this schedule has not
 
