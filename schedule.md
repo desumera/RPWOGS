@@ -8,13 +8,7 @@
 
 RETENTION SCHEDULE FOR RECORDS OF PUBLIC WORKS AND OTHER GOVERNMENT SERVICES
 
-This schedule establishes mandatory minimum retention periods for records that are associated with public works and other government services. No
-
-local government office may dispose of a record listed in this schedule prior to the expiration of its retention period. A records control schedule of a
-
-local government may not set a retention period that is less than that established for the record in this schedule. Original paper records may be disposed
-
-of prior to the expiration of their minimum retention periods if they have been microfilmed or electronically stored pursuant to the provisions of the
+This schedule establishes mandatory minimum retention periods for records that are associated with public works and other government services. No local government office may dispose of a record listed in this schedule prior to the expiration of its retention period. A records control schedule of a local government may not set a retention period that is less than that established for the record in this schedule. Original paper records may be disposed of prior to the expiration of their minimum retention periods if they have been microfilmed or electronically stored pursuant to the provisions of the
 
 Local Government Code, Chapter 204 or Chapter 205, as applicable, and rules of the Texas State Library and Archives Commission adopted under
 
